@@ -1,26 +1,30 @@
- HEAD
+main
+HEAD
 HEAD
 git pull origin main
-
-
-HEAD
-git pull origin main
-
 git pull origin  update_script
->>>>>>> update_script
+update_script
+HEAD
+HEAD
+git pull origin main
+HEAD
+git pull origin main
+git pull origin  update_script
+update_script
 
 7844bfc233e077edb3c1db003f3f7384c2756254
- main
+master
+main
 git pull origin main
-
 update_script
 git pull origin  update_script
-
 git pull origin master
- master
- master
+master
+master
+main
+0cd47088c0b204568cbfdf32106b89ad4f1116f6
 HEAD
 04d785fbab00d3c0fed6fe1ba69fcfff028cd8aa
-
 0cd47088c0b204568cbfdf32106b89ad4f1116f6
 7844bfc233e077edb3c1db003f3f7384c2756254
+master
