@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+git pull origin main
+=======
+git pull origin  update_script
+>>>>>>> update_script
+=======
  main
 git pull origin main
 
@@ -7,3 +14,4 @@ git pull origin  update_script
 git pull origin master
  master
  master
+>>>>>>> 0cd47088c0b204568cbfdf32106b89ad4f1116f6
