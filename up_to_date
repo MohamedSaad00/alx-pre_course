@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 git pull origin main
+=======
+ main
+git pull origin main
+
+update_script
+git pull origin  update_script
+
+git pull origin master
+ master
+ master
+>>>>>>> 04d785fbab00d3c0fed6fe1ba69fcfff028cd8aa
