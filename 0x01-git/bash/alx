@@ -1,4 +1,5 @@
 #!/bin/bash
+update_script
 HEAD
 echo "ALX School is so cool!"
 
@@ -11,3 +12,18 @@ echo "ALX School is so cool!"
 echo "ALX School"
 master
 0cd47088c0b204568cbfdf32106b89ad4f1116f6
+
+ HEAD
+ HEAD
+echo "ALX School is so cool!"
+
+echo "ALX School"
+ update_script
+
+ main
+echo "ALX School is so cool!"
+
+echo "ALX School"
+ master
+ 0cd47088c0b204568cbfdf32106b89ad4f1116f6
+master
